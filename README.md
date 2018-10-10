@@ -4,7 +4,7 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 
 | Example | Build status |
 |---------|--------------|
-[![Build Status](https://dev.azure.com/nycdev/meetuptest/_apis/build/status/msftsean.pipelines-javascript)](https://dev.azure.com/nycdev/meetuptest/_build/latest?definitionId=1)
+| Build - Azure DevOps | [![Build Status](https://dev.azure.com/nycdev/meetuptest/_apis/build/status/msftsean.pipelines-javascript)](https://dev.azure.com/nycdev/meetuptest/_build/latest?definitionId=1)
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=8) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=9) |
